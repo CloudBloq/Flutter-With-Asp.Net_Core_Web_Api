@@ -1,0 +1,440 @@
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\fixit.exe
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\fixit.deps.json
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\fixit.runtimeconfig.json
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\fixit.runtimeconfig.dev.json
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\fixit.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\fixit.pdb
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\obj\Debug\netcoreapp3.1\fixit.csprojAssemblyReference.cache
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\obj\Debug\netcoreapp3.1\fixit.AssemblyInfoInputs.cache
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\obj\Debug\netcoreapp3.1\fixit.AssemblyInfo.cs
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\obj\Debug\netcoreapp3.1\fixit.csproj.CoreCompileInputs.cache
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\obj\Debug\netcoreapp3.1\fixit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\obj\Debug\netcoreapp3.1\fixit.RazorTargetAssemblyInfo.cache
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\obj\Debug\netcoreapp3.1\staticwebassets\fixit.StaticWebAssets.Manifest.cache
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\obj\Debug\netcoreapp3.1\staticwebassets\fixit.StaticWebAssets.xml
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\obj\Debug\netcoreapp3.1\fixit.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\obj\Debug\netcoreapp3.1\fixit.pdb
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\obj\Debug\netcoreapp3.1\fixit.genruntimeconfig.cache
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\obj\Debug\netcoreapp3.1\fixit.csproj.CopyComplete
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\obj\Debug\netcoreapp3.1\scopedcss\bundle\fixit.styles.css
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.csprojAssemblyReference.cache
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\staticwebassets\fixit.StaticWebAssets.Manifest.cache
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\staticwebassets\fixit.StaticWebAssets.xml
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.AssemblyInfoInputs.cache
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.AssemblyInfo.cs
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.pdb
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.exe
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.deps.json
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.runtimeconfig.json
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.runtimeconfig.dev.json
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.pdb
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.RazorTargetAssemblyInfo.cache
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.csproj.CopyComplete
+<<<<<<< HEAD
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.csprojAssemblyReference.cache
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.AssemblyInfoInputs.cache
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.AssemblyInfo.cs
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.csproj.CoreCompileInputs.cache
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.pdb
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.exe
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.deps.json
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.runtimeconfig.json
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.runtimeconfig.dev.json
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.pdb
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.RazorTargetAssemblyInfo.cache
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.csproj.CopyComplete
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\staticwebassets\fixit.StaticWebAssets.Manifest.cache
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\staticwebassets\fixit.StaticWebAssets.xml
+C:\Users\getac\Desktop\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.genruntimeconfig.cache
+=======
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\templates\ff.config.json
+>>>>>>> a5dcc59c761eec92e1c3bdea024214483a6a497c
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\templates\ff.config.json
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Backup\obj\Debug\netcoreapp3.1\project.razor.json
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Backup\obj\fixit.csproj.nuget.dgspec.json
+C:\Users\yared\Documents\education\Flutter Project Fix it\fixit\bin\Debug\netcoreapp3.1\Backup\obj\project.assets.json
+>>>>>>> f54bcca6daae5dddb4ac7b98e8807314394fab52
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Backup\obj\Debug\netcoreapp3.1\project.razor.json
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Backup\obj\fixit.csproj.nuget.dgspec.json
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Backup\obj\project.assets.json
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Fasikaw\OneDrive\Documents\Flutter Projects\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.csprojAssemblyReference.cache
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\staticwebassets\fixit.StaticWebAssets.Manifest.cache
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\staticwebassets\fixit.StaticWebAssets.xml
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.pdb
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Backup\obj\Debug\netcoreapp3.1\project.razor.json
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Backup\obj\fixit.csproj.nuget.dgspec.json
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Backup\obj\project.assets.json
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\templates\ff.config.json
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.exe
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.deps.json
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.runtimeconfig.json
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.runtimeconfig.dev.json
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.pdb
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Infrastructure.MVVM.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.csproj.CopyComplete
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Fasikaw\OneDrive\Documents\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Data.Entity.Repository.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\templates\ff.config.json
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.exe
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.deps.json
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.runtimeconfig.json
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.runtimeconfig.dev.json
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\fixit.pdb
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Infrastructure.MVVM.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Data.Entity.Repository.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.csprojAssemblyReference.cache
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.csproj.CoreCompileInputs.cache
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\staticwebassets\fixit.StaticWebAssets.Manifest.cache
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\staticwebassets\fixit.StaticWebAssets.xml
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\scopedcss\bundle\fixit.styles.css
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.csproj.CopyComplete
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.pdb
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\obj\Debug\netcoreapp3.1\fixit.genruntimeconfig.cache
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\yared\Documents\education\new\Fix_it_Backeckend-.Net-Web-Api-\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\templates\ff.config.json
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\fixit.exe
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\fixit.deps.json
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\fixit.runtimeconfig.json
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\fixit.runtimeconfig.dev.json
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\fixit.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\fixit.pdb
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\fixit.csprojAssemblyReference.cache
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\fixit.csproj.CoreCompileInputs.cache
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\fixit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\staticwebassets\fixit.StaticWebAssets.Manifest.cache
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\staticwebassets\fixit.StaticWebAssets.xml
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\scopedcss\bundle\fixit.styles.css
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\fixit.csproj.CopyComplete
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\fixit.dll
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\fixit.pdb
+C:\Users\yared\Documents\education\cloudbloq\.net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\fixit.genruntimeconfig.cache
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\templates\ff.config.json
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\fixit.exe
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\fixit.deps.json
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\fixit.runtimeconfig.json
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\fixit.runtimeconfig.dev.json
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\fixit.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\fixit.pdb
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\fixit.csprojAssemblyReference.cache
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\fixit.csproj.CoreCompileInputs.cache
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\fixit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\staticwebassets\fixit.StaticWebAssets.Manifest.cache
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\staticwebassets\fixit.StaticWebAssets.xml
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\scopedcss\bundle\fixit.styles.css
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\fixit.csproj.CopyComplete
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\fixit.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\fixit.pdb
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\obj\Debug\netcoreapp3.1\fixit.genruntimeconfig.cache
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\yared\Documents\education\cloudbloq\Flutter\Flutter + .Net\FixIt-Back-end-TiDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
